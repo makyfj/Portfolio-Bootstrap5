@@ -1,6 +1,6 @@
 # Portfolio using Bootstrap 5
 
-- Simple portfolio using Bootstrap new features
+- Simple front-end portfolio using Bootstrap new features
 - Images below
 
 ![alt website-1](https://github.com/makyfj/Portfolio-Bootstrap5/blob/main/media/Bootstrap1.png?raw=true)
